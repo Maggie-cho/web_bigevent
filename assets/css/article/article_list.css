@@ -1,0 +1,11 @@
+html,body{
+    margin: 0;
+    padding: 15px;
+    background-color: #f2f2f2;
+}
+.hearForm{
+    display: flex;
+}
+.layui-form-item{
+    margin-right: 3px;
+}
